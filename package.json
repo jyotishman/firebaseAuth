@@ -1,0 +1,27 @@
+{
+  "name": "firebaseauthentication",
+  "version": "1.0.0",
+  "description": "A firebase authentication SPA using angular and google firebase",
+  "main": "index.js",
+  "dependencies": {
+    "dev": "^0.1.3",
+    "grunt": "^1.0.1",
+    "grunt-contrib-rename": "^0.2.0",
+  },
+  "devDependencies": {
+    "grunt-contrib-cssmin": "^1.0.2",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-force-task": "^2.0.0",
+    "grunt-ftp-push": "^1.2.1",
+    "grunt-ftp-upload": "^0.1.1",
+    "grunt-prompt": "^1.3.3",
+    "grunt-replace-filename": "^0.1.2",
+    "grunt-tree": "^1.1.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jyotishman",
+  "license": "ISC"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Firebase auth app",
+  "authors": [
+    "Jyotishman"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-loader": "~1.5.0",
+    "angular-route": "~1.5.0",
+    "boostrap": "bootstrap#^4.1.1",
+    "jquery": "^3.3.1",
+    "fontawesome": "4.7.0",
+    "angular-notify": "^2.5.1",
+    "angular-ui-notification": "^0.3.6"
+  },
+  "resolutions": {
+    "angular": "1.6.9"
+  }
+}
